@@ -1,0 +1,5 @@
+
+port: 8297
+workers: 3
+debug: false
+api_key: key-fcdehl3n8z
